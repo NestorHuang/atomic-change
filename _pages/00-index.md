@@ -11,7 +11,7 @@ image: images/BookCover.png
 
 <center>
 
-<img src="images/BookCover.png" alt="Cover">
+<img src="{{ site.baseurl }}/images/BookCover.png" alt="Cover">
 
 </center>
 

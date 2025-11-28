@@ -42,7 +42,7 @@ keywords: "原型設計, 快速測試, 迭代優化, PDCA"
 > 行動方案不是從完美開始，  
 > 而是從**第一個「做得出來、看得見、摔了也不會毀滅信心」的原型**開始。
 
-<img src="images/07-001.png" alt="原型與成品對比" />
+<img src="{{ site.baseurl }}/images/07-001.png" alt="原型與成品對比" />
 
 這個原型可以很醜、很陽春、很不完整，  
 但必須符合幾個條件：
@@ -90,7 +90,7 @@ keywords: "原型設計, 快速測試, 迭代優化, PDCA"
 
 #### 方法一：9 宮格發想——至少先想九種做法
 
-<img src="images/07-002.png" alt="九宮格發想法" />
+<img src="{{ site.baseurl }}/images/07-002.png" alt="九宮格發想法" />
 
 拿一張 A3 白紙畫成 3×3 九格，  
 中間那格寫上今年的「議題句」，  
@@ -172,7 +172,7 @@ keywords: "原型設計, 快速測試, 迭代優化, PDCA"
 SCAMPER 是一個常見的創意思考工具，  
 你不需要完整教理論，只要借幾個簡單的問句來用。
 
-<img src="images/07-001.png" alt="SCAMPER" />
+<img src="{{ site.baseurl }}/images/07-001.png" alt="SCAMPER" />
 
 假設孩子說：「我們想做宣導海報。」  
 你可以帶他們用幾個 SCAMPER 詢問：
@@ -414,7 +414,7 @@ SCAMPER 是一個常見的創意思考工具，
 
 ---
 
-<img src="images/07-002.png" alt="小鹿親手操作" />
+<img src="{{ site.baseurl }}/images/07-002.png" alt="小鹿親手操作" />
 
 #### 一、鬆手：讓小鹿真的動手，而不是變成大鹿木工班、小鹿旁邊看
 

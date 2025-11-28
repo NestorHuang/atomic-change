@@ -36,7 +36,7 @@ keywords: "鷹架理論, 學習支持, 漸進放手, 能力發展"
 > 既然不要代工、也不能放生，  
 > 那到底該「幫到什麼程度」？
 
-<img src="images/11-001.png" alt="教育鷹架（Scaffolding）概念" />
+<img src="{{ site.baseurl }}/images/11-001.png" alt="教育鷹架（Scaffolding）概念" />
 
 教育界有一個很好用的比喻叫「鷹架」（Scaffolding）。  
 蓋房子時，鷹架是暫時掛在外面的架子，  
@@ -64,7 +64,7 @@ keywords: "鷹架理論, 學習支持, 漸進放手, 能力發展"
 
 ### 11-2 好的鷹架有三層：地基、樓梯、參考圖——而不是整棟蓋給他
 
-<img src="images/11-002.png" alt="好的鷹架三層結構" />
+<img src="{{ site.baseurl }}/images/11-002.png" alt="好的鷹架三層結構" />
 
 我習慣用「三層鷹架」來想：
 
