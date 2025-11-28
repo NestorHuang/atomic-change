@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 第九章 導引員是教練
+title: "第九章　導引員是教練,不是超人家教"
 permalink: /chapter09/
-hide_title: true
+hide_title: "第九章　導引員是教練,不是超人家教"
 description: "導引員的角色定位與心態調整,從做完到陪伴的轉變"
 keywords: "導引員角色, 教練心態, 引導技巧, 放手與陪伴"
 ---
 
-## 第九章　導引員是教練,不是超人家教
 
 ### 9-1 先承認一件事:你真的很想「幫他們做完」
 

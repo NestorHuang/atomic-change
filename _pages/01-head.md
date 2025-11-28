@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 前言
+title: "前言:從懵懂到行動的旅程"
 permalink: /head/
-hide_title: true
+hide_title: "前言:從懵懂到行動的旅程"
 description: "從懵懂到行動的旅程 - 本書緣起、初心與核心理念"
 keywords: "前言, 行動方案, 教育理念, 奔鹿團"
 ---
 
-# 前言:從懵懂到行動的旅程
 
 **緣起:一堂課的延伸**
 
@@ -80,3 +79,4 @@ keywords: "前言, 行動方案, 教育理念, 奔鹿團"
 <br/>
 
 <h4 align="right">高三團 灰鷽（黃拓業） 謹誌</h4>
+

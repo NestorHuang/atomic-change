@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 第十章 問對問題的力量
+title: "第十章　問對問題的力量——用 ORID 和小鹿好好說話"
 permalink: /chapter10/
-hide_title: true
+hide_title: "第十章　問對問題的力量——用 ORID 和小鹿好好說話"
 description: "用ORID焦點討論法引導小鹿深度對話與反思"
 keywords: "ORID, 焦點討論法, 提問技巧, 對話引導"
 ---
 
-### 第十章　問對問題的力量——用 ORID 和小鹿好好說話
 
 ### 10-1 為什麼「來,大家分享一下」常常會死在空氣裡?
 
