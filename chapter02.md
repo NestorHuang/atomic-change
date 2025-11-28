@@ -2,8 +2,6 @@
 layout: post
 title: 第二章 小鹿的心理位置
 permalink: /chapter02/
-nav_order: 5
-parent: 第一部 思維重塑
 description: "理解青少年在環境行動中的心理狀態,從無力感到效能感的轉變"
 keywords: "青少年心理, 效能感, 認同感, 自主性, 同儕關係"
 ---

@@ -2,8 +2,6 @@
 layout: post
 title: 案例九 珊瑚大白話
 permalink: /case09/
-nav_order: 59
-parent: 第五部 實戰故事集
 description: "珊瑚白化議題的科學教育與海洋保育行動"
 keywords: "珊瑚白化, 海洋保育, 氣候變遷, 科學教育, 高一團"
 ---

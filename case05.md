@@ -2,8 +2,6 @@
 layout: post
 title: 案例五 魚翔碧水,生態重光
 permalink: /case05/
-nav_order: 55
-parent: 第五部 實戰故事集
 description: "校園水池生態復育,從外來魚移除到原生魚回歸"
 keywords: "生態復育, 原生魚, 外來種, 校園水池, 竹二團"
 ---

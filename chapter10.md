@@ -2,8 +2,6 @@
 layout: post
 title: 第十章 問對問題的力量
 permalink: /chapter10/
-nav_order: 13
-parent: 第三部 引導者工具箱
 description: "用ORID焦點討論法引導小鹿深度對話與反思"
 keywords: "ORID, 焦點討論法, 提問技巧, 對話引導"
 ---

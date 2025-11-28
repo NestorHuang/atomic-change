@@ -2,8 +2,6 @@
 layout: post
 title: 第五章 啟動與感受
 permalink: /chapter05/
-nav_order: 8
-parent: 第二部 行動路徑
 description: "第一階段:讓小鹿先喜歡上場域,建立情感連結與初步觀察"
 keywords: "啟動階段, 場域感受, 情感連結, 觀察力"
 ---

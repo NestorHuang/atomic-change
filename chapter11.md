@@ -2,8 +2,6 @@
 layout: post
 title: 第十一章 鷹架怎麼搭
 permalink: /chapter11/
-nav_order: 14
-parent: 第三部 引導者工具箱
 description: "學習鷹架理論,在支持與放手之間找到平衡"
 keywords: "鷹架理論, 學習支持, 漸進放手, 能力發展"
 ---

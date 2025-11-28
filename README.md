@@ -2,7 +2,6 @@
 layout: home
 title: 封面
 permalink: /
-nav_order: 1
 description: "環境議題行動方案教練指南~以荒野奔鹿團為例 | 改變最小的單位"
 keywords: "環境教育, 行動方案, 荒野保護協會, 奔鹿團, 環境議題, 青少年教育"
 author: 高三團 灰鷽 (黃拓業)

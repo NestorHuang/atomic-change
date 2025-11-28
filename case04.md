@@ -2,8 +2,6 @@
 layout: post
 title: 案例四 甩廢!海有希望
 permalink: /case04/
-nav_order: 54
-parent: 第五部 實戰故事集
 description: "將淪灘行動轉化為教育工具,從源頭教育做起"
 keywords: "淪灘行動, 海廢教育, 源頭減量, 環境教育, 北五團"
 ---

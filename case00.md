@@ -2,8 +2,6 @@
 layout: post
 title: 案例目錄與閱讀提醒
 permalink: /case00/
-nav_order: 50
-parent: 第五部 實戰故事集
 description: "九支小隊行動方案案例的閱讀指南與核心理念說明"
 keywords: "案例分析, 行動方案, 系統思考, 過程導向"
 ---

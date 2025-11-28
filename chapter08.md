@@ -2,8 +2,6 @@
 layout: post
 title: 第八章 實踐與擴散
 permalink: /chapter08/
-nav_order: 11
-parent: 第二部 行動路徑
 description: "第四階段:持續實踐行動方案,擴大影響力與傳播範圍"
 keywords: "實踐階段, 影響力擴散, 持續改進, 成果展示"
 ---

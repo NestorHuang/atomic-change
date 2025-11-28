@@ -2,8 +2,6 @@
 layout: post
 title: 第十七章 Rubrics 怎麼設計
 permalink: /chapter17/
-nav_order: 20
-parent: 第四部 成長與評估
 description: "設計有意義的評量標準,幫助學生看見自己的能力成長軌跡"
 keywords: "Rubrics, 評量標準, 能力指標, 分級評估"
 ---

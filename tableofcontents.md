@@ -2,7 +2,6 @@
 layout: post
 title: 目錄
 permalink: /tableofcontents/
-nav_order: 2
 description: "改變最小的單位：環境議題行動方案教練指南目錄"
 ---
 

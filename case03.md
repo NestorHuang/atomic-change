@@ -2,8 +2,6 @@
 layout: post
 title: 案例三 森聲不息
 permalink: /case03/
-nav_order: 53
-parent: 第五部 實戰故事集
 description: "透過廣播節目將雨林議題帶入日常生活,學習內容製作與傳播"
 keywords: "廣播節目, 環境傳播, 雨林保育, 內容製作, 桃二團"
 ---

@@ -2,8 +2,6 @@
 layout: post
 title: 第十八章 影響力怎麼看
 permalink: /chapter18/
-nav_order: 21
-parent: 第四部 成長與評估
 description: "超越數字表現,理解影響力的多元面向與長期價值"
 keywords: "影響力評估, 質性成果, 長期效益, 社會影響"
 ---

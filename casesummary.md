@@ -2,8 +2,6 @@
 layout: post
 title: 案例總結
 permalink: /casesummary/
-nav_order: 60
-parent: 第五部 實戰故事集
 description: "從九支小隊的故事中提煉出可實踐的行動方案工具箱"
 keywords: "案例分析, 實踐工具, 行動框架, 經驗傳承"
 ---

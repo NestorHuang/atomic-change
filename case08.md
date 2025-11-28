@@ -2,8 +2,6 @@
 layout: post
 title: 案例八 木箱有點菜
 permalink: /case08/
-nav_order: 58
-parent: 第五部 實戰故事集
 description: "從廢棧板到菜箱與棲地,學習資源循環與線色設計"
 keywords: "資源循環, 廢棧板再用, 都市農耕, 棲地營造, 中二團"
 ---

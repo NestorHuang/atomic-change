@@ -2,8 +2,6 @@
 layout: post
 title: 案例七 簡的六次方
 permalink: /case07/
-nav_order: 57
-parent: 第五部 實戰故事集
 description: "從撈垃圾到簡約生活的實踐,六個減塑行動的一年"
 keywords: "簡約生活, 減塑行動, 生活實踐, 源頭減量, 宜一團"
 ---

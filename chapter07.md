@@ -2,8 +2,6 @@
 layout: post
 title: 第七章 發想與原型
 permalink: /chapter07/
-nav_order: 10
-parent: 第二部 行動路徑
 description: "第三階段:發展行動方案原型,快速測試與迭代優化"
 keywords: "原型設計, 快速測試, 迭代優化, PDCA"
 ---

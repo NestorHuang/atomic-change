@@ -2,8 +2,6 @@
 layout: post
 title: 案例二 菸末小隊
 permalink: /case02/
-nav_order: 52
-parent: 第五部 實戰故事集
 description: "從菸蒂汙染議題學習街頭訪談、問卷設計與社會溝通"
 keywords: "菸蒂汙染, 街頭訪談, 行為改變, 社區宣導, 高三團"
 ---

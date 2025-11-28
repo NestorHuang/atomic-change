@@ -2,8 +2,6 @@
 layout: post
 title: 案例六 「油」我真好
 permalink: /case06/
-nav_order: 56
-parent: 第五部 實戰故事集
 description: "油羅溪的長期守護與山村社區的垃圾溝通協商"
 keywords: "油羅溪, 溪流清理, 社區協商, 長期守護, 竹二團"
 ---

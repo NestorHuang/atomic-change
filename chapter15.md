@@ -2,8 +2,6 @@
 layout: post
 title: 第十五章 看見看不見的成果
 permalink: /chapter15/
-nav_order: 18
-parent: 第四部 成長與評估
 description: "超越表面成果,看見孩子在過程中的能力成長與內在轉變"
 keywords: "成果評估, 過程導向, 能力成長, 多元評估"
 ---
