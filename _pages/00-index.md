@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 封面
+title: 著作權與製作聲明
 permalink: /
 hide_title: true
 description: "環境議題行動方案教練指南~以荒野奔鹿團為例 | 改變最小的單位"
