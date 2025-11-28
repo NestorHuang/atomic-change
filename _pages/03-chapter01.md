@@ -2,6 +2,7 @@
 layout: post
 title: 第一章 不是多做一場活動,而是陪一個地方走一年
 permalink: /chapter01/
+hide_title: true
 description: "從短期活動到長期行動,了解行動方案的五條路徑與奔鹿團優勢"
 keywords: "行動方案, 場域改善, 源頭減量, 資源循環, 生態保育, 教育傳播"
 ---

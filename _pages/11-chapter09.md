@@ -2,6 +2,7 @@
 layout: post
 title: 第九章 導引員是教練
 permalink: /chapter09/
+hide_title: true
 description: "導引員的角色定位與心態調整,從做完到陪伴的轉變"
 keywords: "導引員角色, 教練心態, 引導技巧, 放手與陪伴"
 ---

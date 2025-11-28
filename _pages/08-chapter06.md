@@ -2,6 +2,7 @@
 layout: post
 title: 第六章 聚焦與研究
 permalink: /chapter06/
+hide_title: true
 description: "第二階段:從多個想法中聚焦議題,進行研究與資料收集"
 keywords: "議題聚焦, 研究方法, 資料收集, 利害關係人分析"
 ---

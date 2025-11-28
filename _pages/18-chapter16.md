@@ -2,6 +2,7 @@
 layout: post
 title: 第十六章 歷程檔案怎麼做
 permalink: /chapter16/
+hide_title: true
 description: "建立有意義的歷程檔案,讓學習軌跡可見且可回顧"
 keywords: "歷程檔案, 學習軌跡, 反思記錄, 成長證據"
 ---

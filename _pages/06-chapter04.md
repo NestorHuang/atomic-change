@@ -2,6 +2,7 @@
 layout: post
 title: 第四章 一年一輪
 permalink: /chapter04/
+hide_title: true
 description: "從7月到隔7月的年度行動節奏與四階段框架說明"
 keywords: "年度規劃, 行動節奏, 四階段框架, 行動論壇"
 ---

@@ -2,6 +2,7 @@
 layout: post
 title: 第十三章 失敗教育
 permalink: /chapter13/
+hide_title: true
 description: "將失敗轉化為學習機會,陪伴小鹿建立彈性與成長型思維"
 keywords: "失敗教育, 成長型思維, 挫折處理, 彈性培養"
 ---
