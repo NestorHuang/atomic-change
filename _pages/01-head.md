@@ -2,7 +2,6 @@
 layout: post
 title: "前言:從懵懂到行動的旅程"
 permalink: /head/
-hide_title: "前言:從懵懂到行動的旅程"
 description: "從懵懂到行動的旅程 - 本書緣起、初心與核心理念"
 keywords: "前言, 行動方案, 教育理念, 奔鹿團"
 ---
