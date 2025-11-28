@@ -2,7 +2,6 @@
 layout: post
 title: "第五章　啟動與感受:先讓小鹿「喜歡在這裡」,行動才有地方長"
 permalink: /chapter05/
-hide_title: "第五章　啟動與感受:先讓小鹿「喜歡在這裡」,行動才有地方長"
 description: "第一階段:讓小鹿先喜歡上場域,建立情感連結與初步觀察"
 keywords: "啟動階段, 場域感受, 情感連結, 觀察力"
 ---

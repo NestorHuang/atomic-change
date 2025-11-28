@@ -2,7 +2,6 @@
 layout: post
 title: "第十二章　小隊衝突與分工不均——讓摩擦變成合作練習場"
 permalink: /chapter12/
-hide_title: "第十二章　小隊衝突與分工不均——讓摩擦變成合作練習場"
 description: "處理小隊衝突與分工問題,將摩擦轉化為成長機會"
 keywords: "團隊衝突, 分工合作, 沟通技巧, 衝突處理"
 ---

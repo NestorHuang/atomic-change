@@ -2,7 +2,6 @@
 layout: post
 title: "案例總結  從九支小隊到你的行動方案:把故事變成工具箱"
 permalink: /casesummary/
-hide_title: "案例總結  從九支小隊到你的行動方案:把故事變成工具箱"
 description: "從九支小隊的故事中提煉出可實踐的行動方案工具箱"
 keywords: "案例分析, 實踐工具, 行動框架, 經驗傳承"
 ---

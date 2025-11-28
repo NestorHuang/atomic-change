@@ -2,7 +2,6 @@
 layout: post
 title: "第十四章　導引員也需要電池——資源網絡與自我照顧"
 permalink: /chapter14/
-hide_title: "第十四章　導引員也需要電池——資源網絡與自我照顧"
 description: "導引員的自我照顧與資源網絡建立,持續熱情的關鍵"
 keywords: "自我照顧, 資源網絡, 導引員支持, 熱情維持"
 ---
