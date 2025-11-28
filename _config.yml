@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            改變最小的單位
+longtitle:        環境議題行動方案教練指南~以荒野奔鹿團為例
+author:           高三團 灰鷽
+email:            nestor.huang@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  環境議題行動方案教練指南~以荒野奔鹿團為例
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://nestorhuang.github.io/'
+baseurl:          '/atomic-change'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
