@@ -31,5 +31,13 @@ image: images/BookCover.png
 >
 >**使用授權** 本出版品僅供 **荒野保護協會內部教育培訓與志工交流使用**。 書中引用之小隊案例、數據與照片，著作權歸屬各原創小隊及荒野保護協會；教學論述架構歸屬編輯者。未經授權，不得進行任何形式之商業營利、改作或公開散佈。
 
+<div align="right">
+  策畫編輯：高三團 灰鷽（黃拓業）：nestor.huang@gmail.com
+</div>
+
+<div align="right">
+  策畫編輯：高三團 灰鷽（黃拓業）：nestor.huang@gmail.com
+</div>
+
 
 [手冊Q&A小幫手](https://gemini.google.com/gem/22f3c0c3162b/05afc9fc59108458?usp=sharing)
