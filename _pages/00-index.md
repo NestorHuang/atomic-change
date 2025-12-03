@@ -35,9 +35,4 @@ image: images/BookCover.png
   策畫編輯：高三團 灰鷽（黃拓業）：nestor.huang@gmail.com
 </div>
 
-<div align="right">
-  策畫編輯：高三團 灰鷽（黃拓業）：nestor.huang@gmail.com
-</div>
-
-
 [手冊Q&A小幫手](https://gemini.google.com/gem/22f3c0c3162b/05afc9fc59108458?usp=sharing)
