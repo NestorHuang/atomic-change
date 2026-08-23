@@ -20,7 +20,15 @@
                         {% endif %}
                     {% endunless %}
 
+                    {% if page.layout == "post" %}
+                        {%- include page-nav.html -%}
+                    {% endif %}
+
                     {{ content }}
+
+                    {% if page.layout == "post" %}
+                        {%- include page-nav.html -%}
+                    {% endif %}
 
                     {%- if jekyll.environment != 'dev' and site.disqushandler -%}
                         {%- include disqus.html -%}
