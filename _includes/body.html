@@ -20,13 +20,13 @@
                         {% endif %}
                     {% endunless %}
 
-                    {% if page.layout == "post" %}
+                    {% if page.layout == "post" or page.layout == "home" %}
                         {%- include page-nav.html -%}
                     {% endif %}
 
                     {{ content }}
 
-                    {% if page.layout == "post" %}
+                    {% if page.layout == "post" or page.layout == "home" %}
                         {%- include page-nav.html -%}
                     {% endif %}
 
