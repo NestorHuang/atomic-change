@@ -3,3 +3,64 @@
  * Its purpose is for users of the theme to be able to add css rules from a blank file
  *   these get simply added to the ones already active in the layout.
  */
+
+/* ==========================================================================
+   手機導覽優化 (mobile navigation UX)
+
+   原本的問題：
+   1. 側欄目錄的漢堡選單只有一個圖示，沒有文字標籤，使用者不知道要點它。
+   2. 上一頁／下一頁的翻頁箭頭顏色太淺（#ccc）、沒有背景、沒有文字，
+      在手機版排版裡（<=1240px）很容易被忽略。
+
+   這裡只用 CSS 疊加樣式，沒有更動 gitbook.js / theme.js 等原廠檔案，
+   之後升級 remote_theme 也不會被覆蓋掉。
+   ========================================================================== */
+
+@media (max-width: 1240px) {
+    /* 側欄選單按鈕：加上「目錄」文字標籤，並提高對比 */
+    .book-header .btn:has(i.fa-align-justify) {
+        color: #444;
+    }
+
+    .book-header .btn:has(i.fa-align-justify)::after {
+        content: "目錄";
+        margin-left: 4px;
+        font-size: 13px;
+        text-transform: none;
+        vertical-align: middle;
+    }
+
+    /* 上一頁／下一頁：從淺灰色細箭頭，改成有底色、有文字的按鈕列 */
+    .navigation {
+        background: #f7f7f7;
+        border-top: 1px solid rgba(0, 0, 0, .08);
+        padding: 14px 0;
+        color: #444;
+    }
+
+    .navigation:hover {
+        background: #eee;
+        color: #222;
+    }
+
+    .navigation.navigation-prev {
+        border-right: 1px solid rgba(0, 0, 0, .08);
+    }
+
+    .navigation i {
+        font-size: 20px;
+        vertical-align: middle;
+    }
+
+    .navigation-prev::after {
+        content: " 上一頁";
+        font-size: 14px;
+        vertical-align: middle;
+    }
+
+    .navigation-next::before {
+        content: "下一頁 ";
+        font-size: 14px;
+        vertical-align: middle;
+    }
+}
