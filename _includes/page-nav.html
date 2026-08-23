@@ -2,10 +2,14 @@
     {% if page.previous %}
         <a href="{{ site.baseurl }}{{ page.previous.url }}" class="page-nav-link page-nav-prev">‹ {{ page.previous.title | escape }}</a>
     {% else %}
-        <a href="{{ site.baseurl }}/" class="page-nav-link page-nav-prev">‹ 封面</a>
+        <span class="page-nav-link page-nav-prev page-nav-disabled">‹ 封面</span>
     {% endif %}
 
-    <a href="{{ site.baseurl }}/" class="page-nav-link page-nav-home">目錄</a>
+    {% if page.url == "/" %}
+        <span class="page-nav-link page-nav-home page-nav-disabled">目錄</span>
+    {% else %}
+        <a href="{{ site.baseurl }}/" class="page-nav-link page-nav-home">目錄</a>
+    {% endif %}
 
     {% if page.next %}
         <a href="{{ site.baseurl }}{{ page.next.url }}" class="page-nav-link page-nav-next">{{ page.next.title | escape }} ›</a>
