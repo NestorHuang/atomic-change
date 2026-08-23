@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "第七章　發想與原型：先做一個「ㄔ,好像行得通」的版本"
+title: "第七章　發想與原型：先做一個「ㄟ,好像行得通」的版本"
 permalink: /chapter07/
 description: "第三階段:發展行動方案原型,快速測試與迭代優化"
 keywords: "原型設計, 快速測試, 迭代優化, PDCA"
